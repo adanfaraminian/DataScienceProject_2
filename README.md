@@ -1,5 +1,9 @@
 <h1 align="center">Data Science Project: SpaceX</h1>
 
+
+**Author** : Faramiñán Adán
+
+_**IBM Data Science Professional Certificate**_
 <p align="center"><img src="https://live.staticflickr.com/65535/49185149122_37f5c52e43_k.jpg"></p>
 
 
@@ -26,4 +30,4 @@ Several examples of an unsuccessful landing are shown here:
 
 </h4>
 
-**Author** : Faramiñán Adán
+
