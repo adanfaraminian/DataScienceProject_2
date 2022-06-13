@@ -21,7 +21,7 @@ _**IBM Data Science Professional Certificate**_
 
 All the files required for the capstone project are attached to this repository.
 
-This file is a presentation summarizing the work's objectives, results and conclusions.
+This [file](https://github.com/adanfaraminian/DataScienceProject_SpaceX/blob/main/Project%20capstone_FARAMINAN.pdf) is a presentation summarizing the work's objectives, results and conclusions.
 
 <h3 align="center">
 ==============
