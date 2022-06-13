@@ -17,6 +17,14 @@ _**IBM Data Science Professional Certificate**_
 
 <h3 align="center">
 ==============
+</h3>
+
+All the files required for the capstone project are attached to this repository.
+
+This file is a presentation summarizing the work's objectives, results and conclusions.
+
+<h3 align="center">
+==============
 
 Context:
 </h3>
